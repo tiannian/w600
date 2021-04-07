@@ -1,0 +1,5 @@
+= w600
+w600 periperal access crate
+
+Beacuse w600 official does not provide SVD file, We need a tool named as https://github.com/tiannian/w60x2svd[w60x2svd].
+
